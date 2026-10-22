@@ -1,0 +1,15 @@
+{"model": "vgg16", "split_seed": 42, "C": 1.0, "val_auc": 0.8357142857142857}
+{"model": "vgg16", "split_seed": 43, "C": 1.0, "val_auc": 0.9285714285714286}
+{"model": "vgg16", "split_seed": 44, "C": 0.0001, "val_auc": 0.8595238095238096}
+{"model": "vgg16", "split_seed": 45, "C": 1.0, "val_auc": 0.9226190476190477}
+{"model": "vgg16", "split_seed": 46, "C": 0.1, "val_auc": 0.8904761904761904}
+{"model": "resnet50", "split_seed": 42, "C": 1.0, "val_auc": 0.9642857142857144}
+{"model": "resnet50", "split_seed": 43, "C": 1.0, "val_auc": 0.9904761904761905}
+{"model": "resnet50", "split_seed": 44, "C": 1.0, "val_auc": 0.9952380952380953}
+{"model": "resnet50", "split_seed": 45, "C": 0.1, "val_auc": 0.9869047619047618}
+{"model": "resnet50", "split_seed": 46, "C": 0.1, "val_auc": 0.95}
+{"model": "vit_b16", "split_seed": 42, "C": 0.003, "val_auc": 0.9904761904761904}
+{"model": "vit_b16", "split_seed": 43, "C": 0.003, "val_auc": 0.969047619047619}
+{"model": "vit_b16", "split_seed": 44, "C": 0.0003, "val_auc": 0.9964285714285714}
+{"model": "vit_b16", "split_seed": 45, "C": 0.01, "val_auc": 0.9988095238095238}
+{"model": "vit_b16", "split_seed": 46, "C": 1.0, "val_auc": 0.980952380952381}

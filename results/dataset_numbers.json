@@ -1,0 +1,13 @@
+{
+ "dup_pairs": 25,
+ "dup_images": 49,
+ "dup_groups": 24,
+ "s42_train": 284,
+ "s42_val": 61,
+ "s42_test": 60,
+ "s42_tr_c": "186/98",
+ "s42_va_c": "40/21",
+ "s42_te_c": "40/20",
+ "torch_v": "2.14.1",
+ "timm_v": "1.0.30"
+}

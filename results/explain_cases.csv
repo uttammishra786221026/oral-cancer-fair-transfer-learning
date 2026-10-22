@@ -1,0 +1,13 @@
+path,label,model,p_cancer
+oral_cancer/oral_cancer.121.jpg,1,vgg16,0.9976027607917786
+oral_cancer/oral_cancer.121.jpg,1,resnet50,0.9836705923080444
+oral_cancer/oral_cancer.121.jpg,1,vit_b16,0.9861770272254944
+oral_cancer/oral_cancer.39.jpg,1,vgg16,0.9747369885444641
+oral_cancer/oral_cancer.39.jpg,1,resnet50,0.7334731221199036
+oral_cancer/oral_cancer.39.jpg,1,vit_b16,0.9319018721580505
+normal/normal.113.jpeg,0,vgg16,0.5711172819137573
+normal/normal.113.jpeg,0,resnet50,0.010478080250322819
+normal/normal.113.jpeg,0,vit_b16,0.08666390925645828
+normal/normal.34.jpeg,0,vgg16,0.8148946166038513
+normal/normal.34.jpeg,0,resnet50,0.013667084276676178
+normal/normal.34.jpeg,0,vit_b16,0.08664947003126144
